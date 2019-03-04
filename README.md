@@ -10,7 +10,7 @@
 
 既有的资源自动回复，比如回复“ssr”，没有的资源回复你需要的，晚上10点左右yama会逐一回复
 如果有帮到你，请大力赞赏么么哒~ヽ(•̀ω•́ )ゝ
-<center>![enter image description here](https://i.loli.net/2019/03/04/5c7ce74ad734a.jpg)</center>
+![enter image description here](https://i.loli.net/2019/03/04/5c7ce74ad734a.jpg)
 
 也可以选择以下几个免费账号站点，查看更新。
 - https://global.ishadowx.net/	
@@ -22,7 +22,8 @@
 - https://www.52ssr.cn/
 - https://free.yitianjianss.com/	
 - https://cloudfra.com/33
-#####<font color=red size=5>Yama个人推荐</font>（*链接是二维码的链接，复制浏览器点开即可*）
+
+Yama个人推荐（*链接是二维码的链接，复制浏览器点开即可*）
 - https://bdn.135editor.com/files/users/599/5999177/201903/zmkqRcmI_EZCu.png |
 - https://bdn.135editor.com/files/users/599/5999177/201903/LeZzORAN_JsJK.png| 
 - https://bdn.135editor.com/files/users/599/5999177/201903/YtVEYeej_4PqM.png | 
